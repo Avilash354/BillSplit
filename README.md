@@ -2,7 +2,7 @@
 This is a web application that makes it easy to split bills with friends and family. This package organizes all the shared expenses and IOUs in one place so that every user can see who they owe
 # BillSplitter
 
-#### visit https://billsplit.debugentity.me/ to register and use the application
+#### visit https://billsplitrvce.herokuapp.com/blitt/login to register and use the application
 
 ## TOC
 
