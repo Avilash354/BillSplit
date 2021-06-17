@@ -55,19 +55,3 @@ The user is asked to register to the package with providing his contact, payment
 ## Output
 
 The views of the application for personal,groups,friends and activities
-
-## Personal
-
-![personal](https://res.cloudinary.com/dusrowd5k/image/upload/v1613371016/WhatsApp_Image_2021-02-15_at_12.04.00_PM_lrxyqx.jpg)
-
-## Friends
-
-![friends](https://res.cloudinary.com/dusrowd5k/image/upload/v1613371003/friends_hqcvak.jpg)
-
-## Group
-
-![group](https://res.cloudinary.com/dusrowd5k/image/upload/v1613371003/Group_dlalwm.jpg)
-
-## Activity
-
-![activity](https://res.cloudinary.com/dusrowd5k/image/upload/v1613371017/WhatsApp_Image_2021-02-15_at_12.04.17_PM_ryygpj.jpg)
