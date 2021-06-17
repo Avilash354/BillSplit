@@ -7,6 +7,7 @@ CREATE TABLE IF NOT EXISTS users (
 
 );
 
+
 CREATE TABLE IF NOT EXISTS bills (
     id SERIAL PRIMARY KEY,
     amount FLOAT(8),
