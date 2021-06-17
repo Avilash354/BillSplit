@@ -8,7 +8,6 @@ var checkCookie = function (request) {
     : false;
 };
 
-
 let timeConverted = function (time) {
   let curretTime = new Date();
   let timeAgo = curretTime - time;
